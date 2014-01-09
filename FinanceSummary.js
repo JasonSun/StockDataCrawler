@@ -1,6 +1,5 @@
-
-FinanceSummary = new function() {
-
+FinanceSummary = new function()
+{
 	this.scriptid ="GetFinanceSummary";
 	// this.url加载数据的数据源，right addr, important addr
 	this.url = "/Newdata/cwsj/datacw/ssgscw.aspx";
